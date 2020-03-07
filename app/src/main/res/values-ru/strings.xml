@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Офисные происшествия</string>
+    <string name="crime_title_hint">Введите название происшествия</string>
+    <string name="crime_title_label">Название</string>
+    <string name="crime_details_label">Информация</string>
+    <string name="crime_solved_label">Решено</string>
+    <string name="call_police">Связаться с полицией</string>
+    <string name="hello_blank_fragment">Пустой фрагмент</string>
+    <string name="date_picker_title">Дата:</string>
+    <string name="time_picker_title">Время:</string>
+    <string name="new_crime">Добавить</string>
+    <string name="show_subtitle">Показать сводку</string>
+    <string name="hide_subtitle">Скрыть сводку</string>
+    <string name="subtitle_format">Всего происшествий: %1$d</string>
+    <string name="delete_crime">Удалить</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d происшествие</item>
+        <item quantity="few">%1$d происшествия</item>
+        <item quantity="many">%1$d происшествий</item>
+    </plurals>
+    <string name="empty_dlg_title">Нет происшествий!</string>
+    <string name="empty_dlg_text">Добавить?</string>
+    <string name="cops">Нарушает законодательство</string>
+    <string name="crime_suspect_text">Выбрать подозреваемого</string>
+    <string name="crime_report_text">Отправить отчет</string>
+    <string name="crime_report">%1$s!
+ Проишествие было зафиксировано в %2$s, в %3$s.  %4$s. %5$s. %6$s.
+ </string>
+    <string name="crime_report_solved">Меры были приняты</string>
+    <string name="crime_report_unsolved">Требуется принять меры</string>
+    <string name="crime_report_cops">Зафиксировано нарушение законодательства, необходимо связаться с милицией</string>
+    <string name="crime_report_no_cops">Привлечение милиции не требуется</string>
+    <string name="crime_report_no_suspect">Нет подозреваемого</string>
+    <string name="crime_report_suspect">Подозреваемый - %s</string>
+    <string name="crime_report_subject">Отчет об офисных происшествиях</string>
+    <string name="send_report">Отправить отчет</string>
+    <string name="call_suspect">Позвонить</string>
+</resources>
